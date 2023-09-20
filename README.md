@@ -7,7 +7,7 @@ This Repo implements chat with your PDF via a GUI. This Code utilized PaLM's LLM
 ## Clone the Repo:
 Clone the repository. 
 ```shell
-git clone https://github.com/PromtEngineer/PDF_Chat-GUI.git
+git clone https://github.com/PromtEngineer/PaLM-PDFChat.git
 ```
 
 ## Environment Setup
