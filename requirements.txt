@@ -47,3 +47,5 @@ tzlocal==4.3.1
 urllib3==2.0.4
 openai
 ffprobe
+streamlit_extras
+unstructured
