@@ -49,3 +49,9 @@ openai
 ffprobe
 streamlit_extras
 unstructured
+pdfminer==20191125
+pdf2image==1.16.3
+google.generativeai==0.2.0
+python-dotenv==1.0.0
+pdfminer.six==20221105
+chromadb==0.4.13
